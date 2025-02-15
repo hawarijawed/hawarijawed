@@ -5,4 +5,4 @@
 
 
 
- ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&layout=socrates&&quoteCategory=programming)
+ ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&layout=zues&&quoteCategory=programming)
