@@ -1,6 +1,6 @@
 <!-- Banner (Optional GIF or SVG) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=1DBF73&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Hi+there!+I'm+Jawed+Hawari+%F0%9F%91%8B;Aspiring+Full-Stack+Developer;Passionate+about+learning+and+building+cool+things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=200&color=1DBF73&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Hi+there!+I'm+Jawed+Hawari+%F0%9F%91%8B;Aspiring+Full-Stack+Developer;Passionate+about+learning+and+building+cool+things!" alt="Typing SVG" />
 </p>
 
 ---
